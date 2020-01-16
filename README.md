@@ -9,7 +9,7 @@ The calculations are made in order to estimate π by creating a square with a si
 ![Math](https://user-images.githubusercontent.com/24499930/72548656-6d182880-388f-11ea-98b5-f06bc6c86d27.png)
 ## Usage
 Run the program and after that pass the number of points to generate.
-(**This works only on C++11**).
+(**This works on C++11 or higher**).
 Input 0 to exit.
 
 ## Screenshot
