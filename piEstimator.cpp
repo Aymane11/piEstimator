@@ -21,14 +21,15 @@ long double PI(int n){
         if (d < 1)  pts_in_circle++;
         pts_in_square++;
     }
-    return 4 * (double) pts_in_circle / pts_in_square;
+    return 4.0 * (double) pts_in_circle / pts_in_square;
 }
 int main(){
-    int n=1;
-    while (n > 0){
-        cout << "Number of points to generate = ";
-        cin >> n;
+    int n;
+    cout << "Number of points to generate = ";
+    while(cin >> n){
+        if(!n) break;
         cout << "pi (approx.) = " << PI(n)<< endl;
+        cout << "Number of points to generate = ";
     }
     return 0;
 }
