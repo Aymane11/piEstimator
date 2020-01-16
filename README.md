@@ -12,4 +12,4 @@ The calculations are made in order to estimate π by creating a square with a si
 Run the program and after that pass the number of points to generate.
 
 ## Screenshot
-![Screenshot](https://user-images.githubusercontent.com/24499930/72548660-6f7a8280-388f-11ea-8166-a2020fc56c43.JPG)
+![Screenshot](https://user-images.githubusercontent.com/24499930/72558091-50d1b700-38a2-11ea-9e19-d7c97fe6e50b.png)
