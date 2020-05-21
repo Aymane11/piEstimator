@@ -16,7 +16,7 @@ long double PI(int n){
         //generating points coordinates
         double x = uni_dist(gen);
         double y = uni_dist(gen);
-        double d = (x * x) + (y * y));
+        double d = (x * x) + (y * y);
         //calculating the number of points inside the circle (distance(point,center)<1)
         if (d < 1)  pts_in_circle++;
         pts_in_square++;
